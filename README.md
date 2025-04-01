@@ -1,1 +1,1 @@
-# y12-godot-class-demo
+# godot-class-demo
